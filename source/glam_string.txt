@@ -1,0 +1,33 @@
+
+("2018"[Date - Publication] : "3000"[Date - Publication]) AND 
+(("nature*"[Journal]) OR 
+("Genome research"[Journal]) OR 
+("Progress in*"[Journal]) OR 
+("EMBO*"[Journal]) OR 
+("JAMA"[Journal]) OR 
+("Progress in retinal and eye research"[Journal]) OR 
+("Brain"[Journal]) OR 
+("Alzheimer's & dementia : the journal of the Alzheimer's Association"[Journal]) OR 
+("Trends in*"[Journal]) OR 
+("Annual Review*"[Journal]) OR 
+("Lancet*"[Journal]) OR 
+("Science*"[Journal]) OR 
+("Neuron"[Journal]) OR 
+("Cell"[Journal]) OR 
+("Cell Metabolism"[Journal]) OR 
+("Cell Systems"[Journal]) OR 
+("Cell Stem Cell"[Journal]) OR 
+("Current Biology : CB"[Journal]) OR 
+("Immunity"[Journal]) OR 
+("Molecular Cell"[Journal]) OR 
+("American journal of human genetics"[Journal]) OR 
+("The New England journal of medicine"[Journal]))
+
+NOT
+("Sci China Life Sci"[Journal]) 
+
+AND 
+
+
+
+
